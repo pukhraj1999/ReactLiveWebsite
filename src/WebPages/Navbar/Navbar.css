@@ -3,9 +3,6 @@
 nav {
   font-family: "font-family: 'Dela Gothic One', cursive" !important;
   background-color: rgb(174, 98, 245) !important;
-  -webkit-box-shadow: 10px 10px 10px rgb(224, 222, 222);
-  -moz-box-shadow: 10px 10px 10px rgb(224, 222, 222);
-  box-shadow: 5px 5px 5px rgb(224, 222, 222);
 }
 .navbar-brand {
   font-size: 1.8rem !important;
