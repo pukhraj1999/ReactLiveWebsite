@@ -6,7 +6,7 @@ function Navbar() {
     <>
       <nav className="navbar navbar-expand-lg navbar-light ">
         <div className="container-fluid">
-          <NavLink className="navbar-brand" to="/">
+          <NavLink className="navbar-brand" to="/ReactLiveWebsite/">
             <i class="fas fa-landmark"></i> PukhrajLand
           </NavLink>
           <button
@@ -28,7 +28,7 @@ function Navbar() {
                   activeClassName="nav-active"
                   className="nav-link"
                   aria-current="page"
-                  to="/"
+                  to="/ReactLiveWebsite/"
                 >
                   Home
                 </NavLink>
