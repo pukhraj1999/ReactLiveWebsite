@@ -13,12 +13,12 @@ function App() {
     <>
       <Navbar />
       <Switch>
-        <Route exact path="/ReactLiveWebsite/" component={Home} />
+        <Route exact path="/" component={Home} />
         <Route exact path="/about" component={About} />
         <Route exact path="/contact" component={Contact} />
         <Route exact path="/service" component={Service} />
         <Route exact path="/underconstruction" component={UnderConstruction} />
-        <Redirect to="/ReactLiveWebsite/" />
+        <Redirect to="/" />
       </Switch>
       <Footer />
     </>
