@@ -3,6 +3,7 @@ import Input from "./Input.jsx";
 import TextArea from "./TextArea.jsx";
 import opinions from "../Images/opinions.svg";
 import { useState } from "react";
+import emailjs from "emailjs-com";
 
 function Contact() {
   const [data, setData] = useState({
@@ -28,17 +29,32 @@ function Contact() {
 
   function display(events) {
     events.preventDefault();
+    emailjs
+      .sendForm(
+        "gmail",
+        "pukhrajland",
+        events.target,
+        "user_e0YP3pbQJSvEjQrfkZWlT"
+      )
+      .then(
+        (result) => {
+          console.log(result.text);
+        },
+        (error) => {
+          console.log(error.text);
+        }
+      );
     alert(
       data.fname +
         " " +
         data.lname +
-        ",email:-" +
+        "\nemail:-" +
         data.email +
-        ",phone number:-" +
+        "\nphone number:-" +
         data.phone +
-        " send a message:-" +
+        "\nmessage:-" +
         data.message +
-        "."
+        "\nSuccessfully send."
     );
   }
 
@@ -91,9 +107,9 @@ function Contact() {
                 value={data.message}
                 onChange={setInput}
               />
-              <a type="submit" className="btn btn-outline-primary">
+              <button type="submit" className="btn btn-outline-primary">
                 Submit
-              </a>
+              </button>
             </form>
           </div>
           <div className="col-md-6 order-1 order-lg-2 mb-3">
