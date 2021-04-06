@@ -1,10 +1,10 @@
 import Card from "./Card";
 import CardData from "./CardData";
 
-function Service() {
+function Blogs() {
   return (
     <>
-      <h1 className="text-center mt-5">Our Services</h1>
+      <h1 className="text-center mt-5">Our Top Blogs</h1>
       <div className="container mb-5">
         <div className="row">
           {CardData.map((item) => (
@@ -16,4 +16,4 @@ function Service() {
   );
 }
 
-export default Service;
+export default Blogs;

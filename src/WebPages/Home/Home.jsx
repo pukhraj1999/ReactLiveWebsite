@@ -6,7 +6,7 @@ function Home() {
     <>
       <Common
         name="Grow your business with"
-        visit="/service"
+        visit="/blogs"
         imgsrc={web}
         btnName="Get Started"
       />

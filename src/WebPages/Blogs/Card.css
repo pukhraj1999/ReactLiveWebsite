@@ -1,0 +1,21 @@
+.card:hover {
+  -webkit-animation: move 2s ease-in-out infinite alternate both;
+  animation: move 2s ease-in-out infinite alternate both;
+  box-shadow: 0px 5px 5px rgb(174, 98, 245);
+}
+@keyframes move {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-15px);
+  }
+}
+@-webkit-keyframes move {
+  0% {
+    transform: translateY(0px);
+  }
+  100% {
+    transform: translateY(-15px);
+  }
+}

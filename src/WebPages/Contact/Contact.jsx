@@ -91,9 +91,9 @@ function Contact() {
                 value={data.message}
                 onChange={setInput}
               />
-              <button type="submit" className="btn btn-outline-primary">
+              <a type="submit" className="btn btn-outline-primary">
                 Submit
-              </button>
+              </a>
             </form>
           </div>
           <div className="col-md-6 order-1 order-lg-2 mb-3">

@@ -38,9 +38,9 @@ function Navbar() {
                   exact
                   activeClassName="nav-active"
                   className="nav-link"
-                  to="/service"
+                  to="/blogs"
                 >
-                  Service
+                  Blogs
                 </NavLink>
               </li>
               <li className="nav-item">
