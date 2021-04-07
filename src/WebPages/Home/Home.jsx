@@ -6,7 +6,7 @@ function Home() {
     <>
       <Common
         name="Grow your business with"
-        visit="/blogs"
+        visit="/ReactLiveWebsite/blogs"
         imgsrc={web}
         btnName="Get Started"
       />

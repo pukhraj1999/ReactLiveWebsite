@@ -6,7 +6,7 @@ function About() {
     <>
       <Common
         name="Welcome to About page"
-        visit="/contact"
+        visit="/ReactLiveWebsite/contact"
         imgsrc={web}
         btnName="Contact Now"
       />

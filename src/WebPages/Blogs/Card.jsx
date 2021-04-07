@@ -15,10 +15,7 @@ function Card(props) {
           <div className="card-body">
             <h5 className="card-title">{props.title}</h5>
             <p class="card-text">{props.content.substr(0, 200) + "..."}</p>
-            <NavLink
-              to="/underconstruction"
-              className="btn btn-outline-primary"
-            >
+            <NavLink to={props.link} className="btn btn-outline-primary">
               Check More
             </NavLink>
           </div>

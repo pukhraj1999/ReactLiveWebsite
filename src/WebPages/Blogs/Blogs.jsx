@@ -8,7 +8,12 @@ function Blogs() {
       <div className="container mb-5">
         <div className="row">
           {CardData.map((item) => (
-            <Card imgsrc={item.img} title={item.title} content={item.content} />
+            <Card
+              link={item.link}
+              imgsrc={item.img}
+              title={item.title}
+              content={item.content}
+            />
           ))}
         </div>
       </div>
