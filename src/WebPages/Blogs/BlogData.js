@@ -74,8 +74,9 @@ const BlogArr = [
     title_2: "Principal of Digital Development",
     content_2:
       "The Principles for Digital Development are a set of nine guidelines for integrating best practices into technology-enabled development programs for international development and cooperation.",
-    title_3: "",
-    content_3: "",
+    title_3: "History",
+    content_3:
+      "The seed for the Digital Principles began in 2009 when UNICEF launched their Principles for Innovation and Technology Development. A year later, meetings amongst 40 mhealth donors produced the Greentree Principles. A (Principles for Digital Development Working Group) was launched in 2014.The group met nine times throughout the year during which over 500 individuals representing more than 100 organizations took part. Following the Working Group meetings an endorsement campaign began in 2016, led by USAID, and 54 organizations endorsed the new Principles for Digital Development. In 2016, the United Nations Foundation's Digital Impact Alliance became steward of the Principles for Digital Development to help facilitate their adoption",
     title_4: "",
     content_4: "",
     title_5: "",
@@ -111,12 +112,15 @@ const BlogArr = [
     title_2: "Understanding Marketing",
     content_2:
       "Marketing as a discipline involves all the actions a company undertakes to draw in customers and maintain relationships with them. Networking with potential or past clients is part of the work too, and may include writing thank you emails, playing golf with prospective clients, returning calls and emails quickly, and meeting with clients for coffee or a meal. ",
-    title_3: "",
-    content_3: "",
-    title_4: "",
-    content_4: "",
-    title_5: "",
-    content_5: "",
+    title_3: "Product",
+    content_3:
+      "Product refers to an item or items the business plans to offer to customers. The product should seek to fulfill an absence in the market, or fulfill consumer demand for a greater amount of a product already available. Before they can prepare an appropriate campaign, marketers need to understand what product is being sold, how it stands out from its competitors, whether the product can also be paired with a secondary product or product line, and whether there are substitute products in the market. ",
+    title_4: "Place",
+    content_4:
+      "Place refers to the distribution of the product. Key considerations include whether the company will sell the product through a physical storefront, online, or through both distribution channels. When it's sold in a storefront, what kind of physical product placement does it get? When it's sold online, what kind of digital product placement does it get? ",
+    title_5: "Promotion",
+    content_5:
+      "Promotion, the fourth P, is the integrated marketing communications campaign. Promotion includes a variety of activities such as advertising, selling, sales promotions, public relations, direct marketing, sponsorship, and guerrilla marketing. ",
     title_6: "",
     content_6: "",
   },

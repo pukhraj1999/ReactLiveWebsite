@@ -3,3 +3,23 @@
   background-color: rgb(174, 98, 245) !important;
   text-shadow: 0 2px 2px black;
 }
+.fa-facebook {
+  color: rgb(59, 91, 152);
+}
+.fa-linkedin {
+  color: #0e76a8;
+}
+
+.fa-twitter {
+  color: #1da1f2;
+}
+
+.fa-whatsapp {
+  color: #25d366;
+}
+.fa-instagram {
+  color: rgb(193, 53, 132);
+}
+.fa-envelope {
+  color: rgb(255, 92, 92);
+}

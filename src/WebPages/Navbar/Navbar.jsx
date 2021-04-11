@@ -4,7 +4,7 @@ import { NavLink } from "react-router-dom";
 function Navbar() {
   return (
     <>
-      <nav className="navbar navbar-expand-lg navbar-light ">
+      <nav className="navbar navbar-expand-lg navbar-light">
         <div className="container-fluid">
           <NavLink className="navbar-brand" to="/ReactLiveWebsite">
             <i class="fas fa-landmark"></i> PukhrajLand
@@ -18,7 +18,10 @@ function Navbar() {
             aria-expanded="false"
             aria-label="Toggle navigation"
           >
-            <span class="navbar-toggler-icon"></span>
+            <i
+              style={{ color: "rgb(174, 98, 245)" }}
+              className="fas fa-bars"
+            ></i>
           </button>
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav ms-auto mb-2 mb-lg-0">

@@ -11,9 +11,8 @@ function Common(props) {
               <h1>
                 {props.name} <strong className="brand-name">PukhrajLand</strong>
               </h1>
-              <h2 className="my-3 lead">
-                We are the team of talented developers making websites
-              </h2>
+              <h2 className="fs-3 my-3 lead">{props.content}</h2>
+              <p className="my-3 lead mt-0">{props.subContent}</p>
               <div className="mt-3">
                 <NavLink
                   to={props.visit}
