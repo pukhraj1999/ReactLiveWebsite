@@ -19,7 +19,7 @@ function Footer() {
                 className="btn btn-social-icon btn-facebook "
                 target="_blank"
                 rel="noreferrer"
-                href="http://www.facebook.com/profile.php?id="
+                href="https://www.facebook.com/pukhraj.khinda"
               >
                 <i className="fab fa-facebook fa-2x"></i>
               </a>
