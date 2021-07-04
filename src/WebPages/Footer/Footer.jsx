@@ -8,7 +8,7 @@ function Footer() {
           <div className="row">
             <div className="col-md-6 mt-2">
               <p className="fs-5 text-center mb-0 text-light fw-bold">
-                ©Copyright:PukhrajLand,2021
+                ©Copyright:PukhrajHere,2021
               </p>
               <p className=" lead text-center text-light">
                 We are always here for any need.
