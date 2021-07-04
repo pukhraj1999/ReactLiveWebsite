@@ -7,7 +7,7 @@ function Navbar() {
       <nav className="navbar navbar-expand-lg navbar-light">
         <div className="container-fluid">
           <NavLink className="navbar-brand" to="/ReactLiveWebsite">
-            <i class="fas fa-landmark"></i> PukhrajLand
+            <i class="fas fa-landmark"></i> PukhrajHere
           </NavLink>
           <button
             class="navbar-toggler"

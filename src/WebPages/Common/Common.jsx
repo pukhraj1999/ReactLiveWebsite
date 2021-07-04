@@ -9,7 +9,7 @@ function Common(props) {
           <div className="row">
             <div className="col-md-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
               <h1>
-                {props.name} <strong className="brand-name">PukhrajLand</strong>
+                {props.name} <strong className="brand-name">PukhrajHere</strong>
               </h1>
               <h2 className="fs-3 my-3 lead">{props.content}</h2>
               <p className="my-3 lead mt-0">{props.subContent}</p>
