@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ReactLiveWebsite/static/css/main.788f6fcd.chunk.css",
-    "main.js": "/ReactLiveWebsite/static/js/main.4247eed6.chunk.js",
-    "main.js.map": "/ReactLiveWebsite/static/js/main.4247eed6.chunk.js.map",
-    "runtime-main.js": "/ReactLiveWebsite/static/js/runtime-main.a98985ef.js",
-    "runtime-main.js.map": "/ReactLiveWebsite/static/js/runtime-main.a98985ef.js.map",
+    "main.css": "/ReactLiveWebsite/static/css/main.90766616.chunk.css",
+    "main.js": "/ReactLiveWebsite/static/js/main.61c70cac.chunk.js",
+    "main.js.map": "/ReactLiveWebsite/static/js/main.61c70cac.chunk.js.map",
+    "runtime-main.js": "/ReactLiveWebsite/static/js/runtime-main.641c7dd6.js",
+    "runtime-main.js.map": "/ReactLiveWebsite/static/js/runtime-main.641c7dd6.js.map",
     "static/css/2.65af8127.chunk.css": "/ReactLiveWebsite/static/css/2.65af8127.chunk.css",
-    "static/js/2.2fc51177.chunk.js": "/ReactLiveWebsite/static/js/2.2fc51177.chunk.js",
-    "static/js/2.2fc51177.chunk.js.map": "/ReactLiveWebsite/static/js/2.2fc51177.chunk.js.map",
+    "static/js/2.4fad2227.chunk.js": "/ReactLiveWebsite/static/js/2.4fad2227.chunk.js",
+    "static/js/2.4fad2227.chunk.js.map": "/ReactLiveWebsite/static/js/2.4fad2227.chunk.js.map",
     "index.html": "/ReactLiveWebsite/index.html",
     "static/css/2.65af8127.chunk.css.map": "/ReactLiveWebsite/static/css/2.65af8127.chunk.css.map",
-    "static/css/main.788f6fcd.chunk.css.map": "/ReactLiveWebsite/static/css/main.788f6fcd.chunk.css.map",
-    "static/js/2.2fc51177.chunk.js.LICENSE.txt": "/ReactLiveWebsite/static/js/2.2fc51177.chunk.js.LICENSE.txt",
+    "static/css/main.90766616.chunk.css.map": "/ReactLiveWebsite/static/css/main.90766616.chunk.css.map",
+    "static/js/2.4fad2227.chunk.js.LICENSE.txt": "/ReactLiveWebsite/static/js/2.4fad2227.chunk.js.LICENSE.txt",
     "static/media/AppDevelop.7171233a.jpg": "/ReactLiveWebsite/static/media/AppDevelop.7171233a.jpg",
     "static/media/DigitalDevelop.7bb89825.jpg": "/ReactLiveWebsite/static/media/DigitalDevelop.7bb89825.jpg",
     "static/media/GameDevelop.0b821910.jpg": "/ReactLiveWebsite/static/media/GameDevelop.0b821910.jpg",
@@ -23,10 +23,10 @@
     "static/media/website.e8fcbfc8.svg": "/ReactLiveWebsite/static/media/website.e8fcbfc8.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a98985ef.js",
+    "static/js/runtime-main.641c7dd6.js",
     "static/css/2.65af8127.chunk.css",
-    "static/js/2.2fc51177.chunk.js",
-    "static/css/main.788f6fcd.chunk.css",
-    "static/js/main.4247eed6.chunk.js"
+    "static/js/2.4fad2227.chunk.js",
+    "static/css/main.90766616.chunk.css",
+    "static/js/main.61c70cac.chunk.js"
   ]
 }
